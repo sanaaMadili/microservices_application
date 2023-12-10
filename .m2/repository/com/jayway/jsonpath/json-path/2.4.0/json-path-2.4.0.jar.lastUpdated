@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 13:00:07 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669118407459
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.jayway.jsonpath\:json-path\:jar\:2.4.0 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar

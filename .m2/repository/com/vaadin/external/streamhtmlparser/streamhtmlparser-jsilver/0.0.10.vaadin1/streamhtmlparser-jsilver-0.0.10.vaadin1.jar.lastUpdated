@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 13:00:23 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669118406599
+@default-vaadin-releases-https\://oss.sonatype.org/content/repositories/vaadin-releases/.lastUpdated=1669118423214
+https\://oss.sonatype.org/content/repositories/vaadin-releases/.error=Could not transfer artifact com.vaadin.external.streamhtmlparser\:streamhtmlparser-jsilver\:jar\:0.0.10.vaadin1 from/to vaadin-releases (https\://oss.sonatype.org/content/repositories/vaadin-releases/)\: transfer failed for https\://oss.sonatype.org/content/repositories/vaadin-releases/com/vaadin/external/streamhtmlparser/streamhtmlparser-jsilver/0.0.10.vaadin1/streamhtmlparser-jsilver-0.0.10.vaadin1.jar
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.vaadin.external.streamhtmlparser\:streamhtmlparser-jsilver\:jar\:0.0.10.vaadin1 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/com/vaadin/external/streamhtmlparser/streamhtmlparser-jsilver/0.0.10.vaadin1/streamhtmlparser-jsilver-0.0.10.vaadin1.jar

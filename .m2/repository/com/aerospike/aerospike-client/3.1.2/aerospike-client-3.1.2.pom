@@ -1,0 +1,43 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.aerospike</groupId>
+  <artifactId>aerospike-client</artifactId>
+  <version>3.1.2</version>
+  <packaging>jar</packaging>
+  <name>Aerospike Java Client</name>
+  <description>Java client interface to Aerospike database server</description>
+  <url>http://www.aerospike.com</url>
+  <licenses>
+    <license>
+      <name>Aerospike Client License</name>
+      <url>https://github.com/aerospike/aerospike-client-java/blob/master/LICENSE.md</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <connection>scm:git:git@github.com:aerospike/aerospike-client-java.git</connection>
+    <url>https://github.com/aerospike/aerospike-client-java</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>org.gnu</groupId>
+      <artifactId>gnu-crypto</artifactId>
+      <version>2.0.1</version>
+    </dependency>
+    <dependency> 
+      <groupId>org.luaj</groupId>
+      <artifactId>luaj-jse</artifactId>
+      <version>3.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.mindrot</groupId>
+      <artifactId>jbcrypt</artifactId>
+      <version>0.3m</version>
+    </dependency>
+  </dependencies>
+  <parent>
+    <groupId>org.sonatype.oss</groupId>
+    <artifactId>oss-parent</artifactId>
+    <version>7</version>
+  </parent>
+</project>

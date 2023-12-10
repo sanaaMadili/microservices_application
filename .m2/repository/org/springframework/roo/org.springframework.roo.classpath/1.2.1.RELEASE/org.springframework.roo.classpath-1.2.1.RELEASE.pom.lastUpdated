@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 14:14:56 CET 2022
+http\://0.0.0.0/.error=Could not transfer artifact org.springframework.roo\:org.springframework.roo.classpath\:pom\:1.2.1.RELEASE from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [spring-roo-repository (http\://spring-roo-repository.springsource.org/release, default, releases+snapshots)]
+http\://spring-roo-repository.springsource.org/release/.lastUpdated=1669122896724
+https\://repo.maven.apache.org/maven2/.lastUpdated=1669115070132
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1669122668733
+https\://repo.maven.apache.org/maven2/.error=

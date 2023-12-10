@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 14:11:43 CET 2022
+jsoup-1.15.3.jar>central=
+jsoup-1.15.3-sources.jar>central=
+jsoup-1.15.3.pom>central=

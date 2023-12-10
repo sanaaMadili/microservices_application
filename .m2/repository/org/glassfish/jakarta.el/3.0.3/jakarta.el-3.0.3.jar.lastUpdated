@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 13:00:06 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669118406418
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.glassfish\:jakarta.el\:jar\:3.0.3 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar

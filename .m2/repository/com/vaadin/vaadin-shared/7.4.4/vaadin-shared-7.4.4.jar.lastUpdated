@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 13:00:23 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669118406593
+@default-vaadin-releases-https\://oss.sonatype.org/content/repositories/vaadin-releases/.lastUpdated=1669118423211
+https\://oss.sonatype.org/content/repositories/vaadin-releases/.error=Could not transfer artifact com.vaadin\:vaadin-shared\:jar\:7.4.4 from/to vaadin-releases (https\://oss.sonatype.org/content/repositories/vaadin-releases/)\: transfer failed for https\://oss.sonatype.org/content/repositories/vaadin-releases/com/vaadin/vaadin-shared/7.4.4/vaadin-shared-7.4.4.jar
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.vaadin\:vaadin-shared\:jar\:7.4.4 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/com/vaadin/vaadin-shared/7.4.4/vaadin-shared-7.4.4.jar

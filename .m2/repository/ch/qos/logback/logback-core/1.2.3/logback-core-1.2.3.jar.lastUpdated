@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 12:59:59 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669118399411
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact ch.qos.logback\:logback-core\:jar\:1.2.3 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar from central failed

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 13:00:23 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669118406656
+@default-vaadin-releases-https\://oss.sonatype.org/content/repositories/vaadin-releases/.lastUpdated=1669118423218
+https\://oss.sonatype.org/content/repositories/vaadin-releases/.error=Could not transfer artifact org.jsoup\:jsoup\:jar\:1.8.1 from/to vaadin-releases (https\://oss.sonatype.org/content/repositories/vaadin-releases/)\: transfer failed for https\://oss.sonatype.org/content/repositories/vaadin-releases/org/jsoup/jsoup/1.8.1/jsoup-1.8.1.jar
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jsoup\:jsoup\:jar\:1.8.1 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.8.1/jsoup-1.8.1.jar

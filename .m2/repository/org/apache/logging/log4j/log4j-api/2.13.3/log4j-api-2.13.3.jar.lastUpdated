@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 13:00:04 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669118404833
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-api\:jar\:2.13.3 from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar from central failed

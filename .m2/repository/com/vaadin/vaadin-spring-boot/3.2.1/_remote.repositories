@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 21 20:24:49 CET 2022
+vaadin-spring-boot-3.2.1-sources.jar>central=
+vaadin-spring-boot-3.2.1.jar>central=
+vaadin-spring-boot-3.2.1.pom>central=

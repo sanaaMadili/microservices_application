@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 21 10:28:39 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669022919130
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.vaadin\:vaadin-spring-boot-starter\:pom\:${vaadin.version} from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/com/vaadin/vaadin-spring-boot-starter/$%257Bvaadin.version%257D/vaadin-spring-boot-starter-$%257Bvaadin.version%257D.pom

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 14:15:45 CET 2022
+org.springframework.roo.wrapping.bcpg-jdk15-1.45.0.0001.jar>spring-roo-repository=
+org.springframework.roo.wrapping.bcpg-jdk15-1.45.0.0001.pom>spring-roo-repository=

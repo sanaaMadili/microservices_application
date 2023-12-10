@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS client_database;
+CREATE DATABASE IF NOT EXISTS voiture_database;

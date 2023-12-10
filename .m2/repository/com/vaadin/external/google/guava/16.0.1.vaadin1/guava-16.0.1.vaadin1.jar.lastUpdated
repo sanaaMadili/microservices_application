@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Nov 25 01:19:45 CET 2022
+https\://oss.sonatype.org/content/repositories/vaadin-releases/.error=Could not transfer artifact com.vaadin.external.google\:guava\:jar\:16.0.1.vaadin1 from/to vaadin-releases (https\://oss.sonatype.org/content/repositories/vaadin-releases/)\: transfer failed for https\://oss.sonatype.org/content/repositories/vaadin-releases/com/vaadin/external/google/guava/16.0.1.vaadin1/guava-16.0.1.vaadin1.jar
+@default-vaadin-releases-https\://oss.sonatype.org/content/repositories/vaadin-releases/.lastUpdated=1669118423216
+https\://repo.maven.apache.org/maven2/.lastUpdated=1669335585298

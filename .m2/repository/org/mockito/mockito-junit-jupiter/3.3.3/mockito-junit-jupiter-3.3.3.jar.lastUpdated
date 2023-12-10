@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 13:00:07 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669118407684
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.mockito\:mockito-junit-jupiter\:jar\:3.3.3 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.jar

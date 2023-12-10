@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 22 13:00:23 CET 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1669118406586
+@default-vaadin-releases-https\://oss.sonatype.org/content/repositories/vaadin-releases/.lastUpdated=1669118423113
+https\://oss.sonatype.org/content/repositories/vaadin-releases/.error=Could not transfer artifact com.vaadin\:vaadin-sass-compiler\:jar\:0.9.12 from/to vaadin-releases (https\://oss.sonatype.org/content/repositories/vaadin-releases/)\: transfer failed for https\://oss.sonatype.org/content/repositories/vaadin-releases/com/vaadin/vaadin-sass-compiler/0.9.12/vaadin-sass-compiler-0.9.12.jar
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.vaadin\:vaadin-sass-compiler\:jar\:0.9.12 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/com/vaadin/vaadin-sass-compiler/0.9.12/vaadin-sass-compiler-0.9.12.jar
